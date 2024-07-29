@@ -1,0 +1,8 @@
+character='assets/images/imgbin_pixel-art-batman-png.png'
+batrang='assets/images/toppng.com-batman-logo-png-batman-symbol-black-and-white-2400x1303.png'
+obstacle='assets/images/—Pngtree—tips obstacle warning_1034699.png'
+background='assets/images/Gotham City Backgrounds - Wallpaper Cave.jpeg'
+bg_music='assets/music/The Dark Knight Rises Official Soundtrack Despair Hans Zimmer WaterTower.mp3'
+menu_music='assets/music/THE BATMAN Theme Michael Giacchino (Main Trailer Music).mp3'
+menu_bg='assets/images/WhatsApp Image 2024-07-15 at 11.28.57 PM.jpeg'
+platform='assets/images/WhatsApp Image 2024-07-19 at 10.49.25 PM.jpeg'
